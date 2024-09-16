@@ -1,7 +1,7 @@
 from tkinter import *
 import tkinter as t
 c=t.Tk()
-c.iconbitmap(r'C:\Users\rajku\OneDrive\Desktop\programs\Rays\Python\GUI\Calicon.ico')
+c.iconbitmap(r'C:\Users\rajku\OneDrive\Desktop\Programs\Rays\Git-pro\p23-Calculator\Calicon.ico')
 c.geometry('450x580')
 c.resizable(0,0)
 c.title('Calculator')
